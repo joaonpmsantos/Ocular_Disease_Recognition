@@ -2474,7 +2474,6 @@
 2544,3485,70,Male,3485_right.jpg,normal fundus,N,right
 2545,3932,50,Male,3932_right.jpg,mild nonproliferative retinopathy,D,right
 2546,3934,42,Male,3934_right.jpg,moderate non proliferative retinopathy,D,right
-2547,3935,45,Male,3935_right.jpg,mild nonproliferative retinopathy,D,right
 2549,3937,57,Male,3937_right.jpg,moderate non proliferative retinopathy,D,right
 2550,3938,59,Female,3938_right.jpg,moderate non proliferative retinopathy,D,right
 2552,3940,42,Female,3940_right.jpg,mild nonproliferative retinopathy,D,right
@@ -2527,7 +2526,6 @@
 2603,4002,67,Male,4002_right.jpg,proliferative diabetic retinopathy,D,right
 2604,4003,50,Male,4003_right.jpg,mild nonproliferative retinopathy,D,right
 2605,4005,62,Female,4005_right.jpg,mild nonproliferative retinopathy,D,right
-2606,4007,71,Male,4007_right.jpg,mild nonproliferative retinopathy,D,right
 2607,4008,52,Male,4008_right.jpg,mild nonproliferative retinopathy,D,right
 2608,4009,60,Male,4009_right.jpg,moderate non proliferative retinopathy,D,right
 2609,4011,64,Male,4011_right.jpg,moderate non proliferative retinopathy,D,right
@@ -2655,7 +2653,6 @@
 2741,4166,36,Male,4166_right.jpg,mild nonproliferative retinopathy,D,right
 2742,4167,54,Male,4167_right.jpg,mild nonproliferative retinopathy,D,right
 2743,4168,65,Female,4168_right.jpg,moderate non proliferative retinopathy,D,right
-2744,4169,48,Male,4169_right.jpg,moderate non proliferative retinopathy,D,right
 2745,4171,62,Female,4171_right.jpg,moderate non proliferative retinopathy,D,right
 2746,4172,59,Female,4172_right.jpg,normal fundus,N,right
 2747,4173,70,Male,4173_right.jpg,moderate non proliferative retinopathy,D,right
@@ -2764,7 +2761,6 @@
 2851,4287,54,Male,4287_right.jpg,mild nonproliferative retinopathy,D,right
 2852,4288,69,Female,4288_right.jpg,moderate non proliferative retinopathy,D,right
 2853,4289,46,Male,4289_right.jpg,moderate non proliferative retinopathy,D,right
-2854,4290,51,Male,4290_right.jpg,normal fundus,N,right
 2855,4291,23,Male,4291_right.jpg,moderate non proliferative retinopathy,D,right
 2856,4292,67,Male,4292_right.jpg,moderate non proliferative retinopathy,D,right
 2857,4293,48,Female,4293_right.jpg,mild nonproliferative retinopathy,D,right
@@ -2898,11 +2894,9 @@
 2986,4439,47,Male,4439_right.jpg,mild nonproliferative retinopathy,D,right
 2987,4440,60,Male,4440_right.jpg,moderate non proliferative retinopathy,D,right
 2988,4441,62,Male,4441_right.jpg,moderate non proliferative retinopathy,D,right
-2989,4442,62,Female,4442_right.jpg,moderate non proliferative retinopathy,D,right
 2990,4443,49,Female,4443_right.jpg,mild nonproliferative retinopathy,D,right
 2991,4444,61,Male,4444_right.jpg,moderate non proliferative retinopathy,D,right
 2993,4447,42,Female,4447_right.jpg,moderate non proliferative retinopathy,D,right
-2994,4448,50,Male,4448_right.jpg,moderate non proliferative retinopathy,D,right
 2995,4449,45,Male,4449_right.jpg,severe nonproliferative retinopathy,D,right
 2996,4450,53,Male,4450_right.jpg,moderate non proliferative retinopathy,D,right
 2997,4451,37,Male,4451_right.jpg,mild nonproliferative retinopathy,D,right
@@ -2961,7 +2955,6 @@
 3050,4516,73,Female,4516_right.jpg,mild nonproliferative retinopathy,D,right
 3051,4519,54,Female,4519_right.jpg,moderate non proliferative retinopathy,D,right
 3052,4520,60,Female,4520_right.jpg,moderate non proliferative retinopathy,D,right
-3053,4522,67,Male,4522_right.jpg,severe nonproliferative retinopathy,D,right
 3054,4523,59,Male,4523_right.jpg,mild nonproliferative retinopathy,D,right
 3055,4524,73,Female,4524_right.jpg,moderate non proliferative retinopathy,D,right
 3056,4525,48,Male,4525_right.jpg,moderate non proliferative retinopathy,D,right
@@ -3014,7 +3007,6 @@
 3103,4577,71,Male,4577_right.jpg,mild nonproliferative retinopathy,D,right
 3104,4578,54,Female,4578_right.jpg,mild nonproliferative retinopathy,D,right
 3105,4579,58,Male,4579_right.jpg,hypertensive retinopathy,H,right
-3106,4580,68,Male,4580_right.jpg,mild nonproliferative retinopathy,D,right
 3107,4581,43,Male,4581_right.jpg,hypertensive retinopathy,H,right
 3108,4582,63,Female,4582_right.jpg,severe nonproliferative retinopathy,D,right
 3109,4583,28,Male,4583_right.jpg,normal fundus,N,right
@@ -3408,7 +3400,6 @@
 3514,368,64,Male,368_right.jpg,myelinated nerve fibers,O,right
 3515,370,57,Male,370_right.jpg,normal fundus,N,right
 3516,371,58,Male,371_right.jpg,drusen,O,right
-3517,372,52,Female,372_right.jpg,low image quality,A,right
 3518,373,60,Female,373_right.jpg,macular epiretinal membrane,O,right
 3519,374,44,Male,374_right.jpg,hypertensive retinopathy,H,right
 3520,376,58,Female,376_right.jpg,moderate non proliferative retinopathy，myelinated nerve fibers,D,right
@@ -4325,7 +4316,6 @@
 4471,1681,70,Male,1681_right.jpg,pathological myopia,M,right
 4472,1686,51,Male,1686_right.jpg,pathological myopia,M,right
 4473,1694,52,Male,1694_right.jpg,pathological myopia,M,right
-4474,1710,62,Male,1710_right.jpg,anterior segment image,A,right
 4475,1716,66,Male,1716_right.jpg,peripapillary atrophy,O,right
 4477,1731,72,Female,1731_right.jpg,moderate non proliferative retinopathy，tessellated fundus,D,right
 4478,1817,51,Female,1817_right.jpg,dry age-related macular degeneration,A,right
@@ -5584,7 +5574,6 @@
 5745,3944,38,Female,3944_right.jpg,moderate non proliferative retinopathy,D,right
 5746,3945,51,Female,3945_right.jpg,moderate non proliferative retinopathy,D,right
 5747,3946,55,Male,3946_right.jpg,mild nonproliferative retinopathy,D,right
-5748,3947,62,Male,3947_right.jpg,low image quality,A,right
 5749,3948,45,Male,3948_right.jpg,mild nonproliferative retinopathy,D,right
 5750,3949,67,Male,3949_right.jpg,moderate non proliferative retinopathy,D,right
 5751,3950,78,Male,3950_right.jpg,mild nonproliferative retinopathy,D,right
@@ -5678,7 +5667,6 @@
 5845,4061,59,Female,4061_right.jpg,moderate non proliferative retinopathy,D,right
 5846,4063,51,Female,4063_right.jpg,normal fundus,N,right
 5847,4064,46,Male,4064_right.jpg,mild nonproliferative retinopathy,D,right
-5848,4066,80,Female,4066_right.jpg,low image quality,A,right
 5849,4067,54,Female,4067_right.jpg,normal fundus,N,right
 5851,4069,55,Male,4069_right.jpg,mild nonproliferative retinopathy,D,right
 5852,4071,51,Male,4071_right.jpg,moderate non proliferative retinopathy,D,right
@@ -5725,7 +5713,6 @@
 5896,4119,41,Male,4119_right.jpg,moderate non proliferative retinopathy,D,right
 5898,4121,53,Male,4121_right.jpg,moderate non proliferative retinopathy,D,right
 5900,4123,67,Female,4123_right.jpg,normal fundus,N,right
-5901,4124,43,Male,4124_right.jpg,low image quality,A,right
 5902,4125,54,Male,4125_right.jpg,mild nonproliferative retinopathy,D,right
 5903,4126,64,Male,4126_right.jpg,mild nonproliferative retinopathy,D,right
 5904,4127,57,Female,4127_right.jpg,severe nonproliferative retinopathy,D,right
@@ -5769,7 +5756,6 @@
 5944,4177,56,Male,4177_right.jpg,mild nonproliferative retinopathy,D,right
 5945,4178,27,Female,4178_right.jpg,moderate non proliferative retinopathy,D,right
 5946,4179,45,Male,4179_right.jpg,moderate non proliferative retinopathy,D,right
-5947,4180,63,Male,4180_right.jpg,low image quality,A,right
 5948,4181,62,Female,4181_right.jpg,moderate non proliferative retinopathy,D,right
 5949,4182,53,Male,4182_right.jpg,normal fundus,N,right
 5950,4183,65,Male,4183_right.jpg,moderate non proliferative retinopathy,D,right
@@ -5785,7 +5771,6 @@
 5960,4195,56,Male,4195_right.jpg,moderate non proliferative retinopathy,D,right
 5961,4196,62,Male,4196_right.jpg,moderate non proliferative retinopathy,D,right
 5962,4197,41,Female,4197_right.jpg,mild nonproliferative retinopathy,D,right
-5963,4198,58,Female,4198_right.jpg,low image quality,A,right
 5964,4199,67,Female,4199_right.jpg,hypertensive retinopathy,H,right
 5965,4200,66,Female,4200_right.jpg,mild nonproliferative retinopathy,D,right
 5966,4201,45,Female,4201_right.jpg,mild nonproliferative retinopathy,D,right
@@ -5846,7 +5831,6 @@
 6022,4259,32,Male,4259_right.jpg,moderate non proliferative retinopathy,D,right
 6023,4260,46,Male,4260_right.jpg,mild nonproliferative retinopathy,D,right
 6024,4261,35,Male,4261_right.jpg,moderate non proliferative retinopathy,D,right
-6025,4262,60,Male,4262_right.jpg,low image quality,A,right
 6026,4263,49,Female,4263_right.jpg,moderate non proliferative retinopathy,D,right
 6027,4265,65,Male,4265_right.jpg,mild nonproliferative retinopathy,D,right
 6028,4266,48,Male,4266_right.jpg,mild nonproliferative retinopathy,D,right
@@ -5901,7 +5885,6 @@
 6077,4316,36,Male,4316_right.jpg,moderate non proliferative retinopathy,D,right
 6078,4317,64,Male,4317_right.jpg,moderate non proliferative retinopathy,D,right
 6079,4318,55,Male,4318_right.jpg,moderate non proliferative retinopathy,D,right
-6080,4319,69,Male,4319_right.jpg,low image quality,A,right
 6081,4320,56,Male,4320_right.jpg,moderate non proliferative retinopathy,D,right
 6082,4321,53,Male,4321_right.jpg,moderate non proliferative retinopathy,D,right
 6083,4322,45,Male,4322_right.jpg,normal fundus,N,right
@@ -5966,7 +5949,6 @@
 6143,4391,47,Male,4391_right.jpg,proliferative diabetic retinopathy,D,right
 6144,4392,17,Male,4392_right.jpg,mild nonproliferative retinopathy,D,right
 6145,4393,50,Male,4393_right.jpg,severe nonproliferative retinopathy,D,right
-6146,4394,56,Male,4394_right.jpg,low image quality,A,right
 6147,4395,60,Female,4395_right.jpg,normal fundus,N,right
 6148,4396,47,Male,4396_right.jpg,mild nonproliferative retinopathy,D,right
 6149,4397,46,Male,4397_right.jpg,moderate non proliferative retinopathy,D,right
@@ -5996,7 +5978,6 @@
 6173,4424,41,Male,4424_right.jpg,moderate non proliferative retinopathy,D,right
 6174,4425,33,Female,4425_right.jpg,moderate non proliferative retinopathy,D,right
 6175,4426,58,Female,4426_right.jpg,normal fundus,N,right
-6176,4427,43,Male,4427_right.jpg,low image quality,A,right
 6177,4428,57,Female,4428_right.jpg,normal fundus,N,right
 6178,4429,31,Male,4429_right.jpg,moderate non proliferative retinopathy,D,right
 6179,4430,75,Female,4430_right.jpg,mild nonproliferative retinopathy,D,right
@@ -6140,7 +6121,6 @@
 6318,4596,30,Female,4596_right.jpg,moderate non proliferative retinopathy,D,right
 6319,4597,54,Female,4597_right.jpg,moderate non proliferative retinopathy,D,right
 6320,4599,39,Female,4599_right.jpg,moderate non proliferative retinopathy,D,right
-6321,4601,36,Male,4601_right.jpg,low image quality,A,right
 6322,4602,59,Male,4602_right.jpg,normal fundus,N,right
 6323,4603,47,Female,4603_right.jpg,severe nonproliferative retinopathy,D,right
 6324,4604,72,Female,4604_right.jpg,mild nonproliferative retinopathy,D,right
@@ -7192,7 +7172,6 @@
 1011,1240,69,Female,1240_left.jpg,normal fundus,N,left
 1012,1241,64,Female,1241_left.jpg,glaucoma,G,left
 1013,1242,1,Female,1242_left.jpg,chorioretinal atrophy,O,left
-1014,1243,81,Female,1243_left.jpg,image offset,A,left
 1015,1245,65,Female,1245_left.jpg,normal fundus,N,left
 1016,1246,70,Female,1246_left.jpg,glaucoma,G,left
 1017,1247,65,Male,1247_left.jpg,glaucoma,G,left
@@ -7219,6 +7198,7 @@
 1039,1272,59,Female,1272_left.jpg,glaucoma,G,left
 1040,1273,62,Male,1273_left.jpg,fundus laser photocoagulation spots,O,left
 1041,1276,63,Male,1276_left.jpg,glaucoma,G,left
+1042,1277,74,Male,1277_left.jpg,glaucoma，intraretinal hemorrhage,G,left
 1046,1282,68,Female,1282_left.jpg,glaucoma,G,left
 1047,1284,42,Male,1284_left.jpg,glaucoma,G,left
 1048,1285,62,Female,1285_left.jpg,cataract,C,left
@@ -7443,7 +7423,6 @@
 1282,1683,72,Female,1683_left.jpg,peripapillary atrophy,O,left
 1283,1686,51,Male,1686_left.jpg,pathological myopia,M,left
 1284,1694,52,Male,1694_left.jpg,refractive media opacity,O,left
-1285,1706,63,Female,1706_left.jpg,anterior segment image,A,left
 1286,1718,65,Male,1718_left.jpg,moderate non proliferative retinopathy，laser spot,D,left
 1287,1731,72,Female,1731_left.jpg,pathological myopia,M,left
 1288,1799,72,Female,1799_left.jpg,tessellated fundus,O,left
@@ -8696,7 +8675,6 @@
 2544,3485,70,Male,3485_left.jpg,normal fundus,N,left
 2545,3932,50,Male,3932_left.jpg,mild nonproliferative retinopathy,D,left
 2546,3934,42,Male,3934_left.jpg,moderate non proliferative retinopathy,D,left
-2547,3935,45,Male,3935_left.jpg,low image quality,A,left
 2549,3937,57,Male,3937_left.jpg,normal fundus,N,left
 2550,3938,59,Female,3938_left.jpg,moderate non proliferative retinopathy,D,left
 2552,3940,42,Female,3940_left.jpg,normal fundus,N,left
@@ -8747,7 +8725,6 @@
 2603,4002,67,Male,4002_left.jpg,severe nonproliferative retinopathy,D,left
 2604,4003,50,Male,4003_left.jpg,moderate non proliferative retinopathy,D,left
 2605,4005,62,Female,4005_left.jpg,mild nonproliferative retinopathy,D,left
-2606,4007,71,Male,4007_left.jpg,low image quality,A,left
 2607,4008,52,Male,4008_left.jpg,moderate non proliferative retinopathy,D,left
 2608,4009,60,Male,4009_left.jpg,moderate non proliferative retinopathy,D,left
 2609,4011,64,Male,4011_left.jpg,moderate non proliferative retinopathy,D,left
@@ -8875,7 +8852,6 @@
 2741,4166,36,Male,4166_left.jpg,mild nonproliferative retinopathy,D,left
 2742,4167,54,Male,4167_left.jpg,normal fundus,N,left
 2743,4168,65,Female,4168_left.jpg,moderate non proliferative retinopathy,D,left
-2744,4169,48,Male,4169_left.jpg,low image quality,A,left
 2745,4171,62,Female,4171_left.jpg,moderate non proliferative retinopathy,D,left
 2746,4172,59,Female,4172_left.jpg,mild nonproliferative retinopathy,D,left
 2747,4173,70,Male,4173_left.jpg,moderate non proliferative retinopathy,D,left
@@ -8982,7 +8958,6 @@
 2851,4287,54,Male,4287_left.jpg,normal fundus,N,left
 2852,4288,69,Female,4288_left.jpg,normal fundus,N,left
 2853,4289,46,Male,4289_left.jpg,moderate non proliferative retinopathy,D,left
-2854,4290,51,Male,4290_left.jpg,low image quality,A,left
 2855,4291,23,Male,4291_left.jpg,moderate non proliferative retinopathy,D,left
 2856,4292,67,Male,4292_left.jpg,normal fundus,N,left
 2857,4293,48,Female,4293_left.jpg,moderate non proliferative retinopathy,D,left
@@ -9116,11 +9091,9 @@
 2986,4439,47,Male,4439_left.jpg,moderate non proliferative retinopathy,D,left
 2987,4440,60,Male,4440_left.jpg,normal fundus,N,left
 2988,4441,62,Male,4441_left.jpg,moderate non proliferative retinopathy,D,left
-2989,4442,62,Female,4442_left.jpg,low image quality,A,left
 2990,4443,49,Female,4443_left.jpg,mild nonproliferative retinopathy,D,left
 2991,4444,61,Male,4444_left.jpg,mild nonproliferative retinopathy,D,left
 2993,4447,42,Female,4447_left.jpg,moderate non proliferative retinopathy,D,left
-2994,4448,50,Male,4448_left.jpg,low image quality,A,left
 2995,4449,45,Male,4449_left.jpg,severe nonproliferative retinopathy,D,left
 2996,4450,53,Male,4450_left.jpg,moderate non proliferative retinopathy,D,left
 2997,4451,37,Male,4451_left.jpg,mild nonproliferative retinopathy,D,left
@@ -9179,7 +9152,6 @@
 3050,4516,73,Female,4516_left.jpg,mild nonproliferative retinopathy,D,left
 3051,4519,54,Female,4519_left.jpg,moderate non proliferative retinopathy,D,left
 3052,4520,60,Female,4520_left.jpg,moderate non proliferative retinopathy,D,left
-3053,4522,67,Male,4522_left.jpg,low image quality,A,left
 3054,4523,59,Male,4523_left.jpg,normal fundus,N,left
 3055,4524,73,Female,4524_left.jpg,moderate non proliferative retinopathy,D,left
 3056,4525,48,Male,4525_left.jpg,moderate non proliferative retinopathy,D,left
@@ -9232,7 +9204,6 @@
 3103,4577,71,Male,4577_left.jpg,normal fundus,N,left
 3104,4578,54,Female,4578_left.jpg,normal fundus,N,left
 3105,4579,58,Male,4579_left.jpg,hypertensive retinopathy,H,left
-3106,4580,68,Male,4580_left.jpg,no fundus image,A,left
 3107,4581,43,Male,4581_left.jpg,hypertensive retinopathy,H,left
 3108,4582,63,Female,4582_left.jpg,severe nonproliferative retinopathy,D,left
 3109,4583,28,Male,4583_left.jpg,mild nonproliferative retinopathy,D,left
@@ -9631,7 +9602,6 @@
 3514,368,64,Male,368_left.jpg,mild nonproliferative retinopathy,D,left
 3515,370,57,Male,370_left.jpg,epiretinal membrane,O,left
 3516,371,58,Male,371_left.jpg,drusen,O,left
-3517,372,52,Female,372_left.jpg,"low image quality,maculopathy",A,left
 3518,373,60,Female,373_left.jpg,normal fundus,N,left
 3519,374,44,Male,374_left.jpg,hypertensive retinopathy,H,left
 3520,376,58,Female,376_left.jpg,normal fundus,N,left
@@ -10172,6 +10142,7 @@
 4071,1015,53,Female,1015_left.jpg,drusen,O,left
 4072,1016,62,Female,1016_left.jpg,normal fundus,N,left
 4073,1019,80,Female,1019_left.jpg,refractive media opacity,O,left
+4074,1020,67,Male,1020_left.jpg,glaucoma，intraretinal hemorrhage,G,left
 4075,1021,64,Female,1021_left.jpg,normal fundus,N,left
 4076,1022,37,Male,1022_left.jpg,moderate non proliferative retinopathy,D,left
 4077,1023,67,Female,1023_left.jpg,normal fundus,N,left
@@ -10329,6 +10300,7 @@
 4236,1272,59,Female,1272_left.jpg,glaucoma,G,left
 4237,1274,48,Female,1274_left.jpg,normal fundus,N,left
 4238,1276,63,Male,1276_left.jpg,glaucoma,G,left
+4239,1277,74,Male,1277_left.jpg,glaucoma，intraretinal hemorrhage,G,left
 4243,1282,68,Female,1282_left.jpg,glaucoma,G,left
 4244,1284,42,Male,1284_left.jpg,glaucoma,G,left
 4245,1285,62,Female,1285_left.jpg,cataract,C,left
@@ -10544,7 +10516,6 @@
 4471,1681,70,Male,1681_left.jpg,refractive media opacity,O,left
 4472,1686,51,Male,1686_left.jpg,pathological myopia,M,left
 4473,1694,52,Male,1694_left.jpg,refractive media opacity,O,left
-4474,1710,62,Male,1710_left.jpg,pathological myopia,M,left
 4475,1716,66,Male,1716_left.jpg,pathological myopia,M,left
 4476,1718,65,Male,1718_left.jpg,moderate non proliferative retinopathy，laser spot,D,left
 4477,1731,72,Female,1731_left.jpg,pathological myopia,M,left
@@ -11804,7 +11775,6 @@
 5745,3944,38,Female,3944_left.jpg,moderate non proliferative retinopathy,D,left
 5746,3945,51,Female,3945_left.jpg,moderate non proliferative retinopathy,D,left
 5747,3946,55,Male,3946_left.jpg,mild nonproliferative retinopathy,D,left
-5748,3947,62,Male,3947_left.jpg,moderate non proliferative retinopathy,D,left
 5749,3948,45,Male,3948_left.jpg,moderate non proliferative retinopathy,D,left
 5750,3949,67,Male,3949_left.jpg,normal fundus,N,left
 5751,3950,78,Male,3950_left.jpg,mild nonproliferative retinopathy,D,left
@@ -11895,7 +11865,6 @@
 5845,4061,59,Female,4061_left.jpg,moderate non proliferative retinopathy,D,left
 5846,4063,51,Female,4063_left.jpg,moderate non proliferative retinopathy,D,left
 5847,4064,46,Male,4064_left.jpg,mild nonproliferative retinopathy,D,left
-5848,4066,80,Female,4066_left.jpg,moderate non proliferative retinopathy,D,left
 5849,4067,54,Female,4067_left.jpg,moderate non proliferative retinopathy,D,left
 5850,4068,58,Male,4068_left.jpg,moderate non proliferative retinopathy,D,left
 5851,4069,55,Male,4069_left.jpg,normal fundus,N,left
@@ -11942,7 +11911,6 @@
 5896,4119,41,Male,4119_left.jpg,moderate non proliferative retinopathy,D,left
 5898,4121,53,Male,4121_left.jpg,moderate non proliferative retinopathy,D,left
 5900,4123,67,Female,4123_left.jpg,moderate non proliferative retinopathy,D,left
-5901,4124,43,Male,4124_left.jpg,moderate non proliferative retinopathy,D,left
 5902,4125,54,Male,4125_left.jpg,severe nonproliferative retinopathy,D,left
 5903,4126,64,Male,4126_left.jpg,normal fundus,N,left
 5904,4127,57,Female,4127_left.jpg,severe nonproliferative retinopathy,D,left
@@ -11987,7 +11955,6 @@
 5944,4177,56,Male,4177_left.jpg,mild nonproliferative retinopathy,D,left
 5945,4178,27,Female,4178_left.jpg,moderate non proliferative retinopathy,D,left
 5946,4179,45,Male,4179_left.jpg,moderate non proliferative retinopathy,D,left
-5947,4180,63,Male,4180_left.jpg,moderate non proliferative retinopathy,D,left
 5948,4181,62,Female,4181_left.jpg,moderate non proliferative retinopathy,D,left
 5949,4182,53,Male,4182_left.jpg,mild nonproliferative retinopathy,D,left
 5950,4183,65,Male,4183_left.jpg,moderate non proliferative retinopathy,D,left
@@ -12003,7 +11970,6 @@
 5960,4195,56,Male,4195_left.jpg,moderate non proliferative retinopathy,D,left
 5961,4196,62,Male,4196_left.jpg,moderate non proliferative retinopathy,D,left
 5962,4197,41,Female,4197_left.jpg,normal fundus,N,left
-5963,4198,58,Female,4198_left.jpg,moderate non proliferative retinopathy,D,left
 5965,4200,66,Female,4200_left.jpg,normal fundus,N,left
 5966,4201,45,Female,4201_left.jpg,mild nonproliferative retinopathy,D,left
 5967,4202,61,Female,4202_left.jpg,hypertensive retinopathy,H,left
@@ -12062,7 +12028,6 @@
 6022,4259,32,Male,4259_left.jpg,mild nonproliferative retinopathy,D,left
 6023,4260,46,Male,4260_left.jpg,mild nonproliferative retinopathy,D,left
 6024,4261,35,Male,4261_left.jpg,normal fundus,N,left
-6025,4262,60,Male,4262_left.jpg,mild nonproliferative retinopathy,D,left
 6026,4263,49,Female,4263_left.jpg,moderate non proliferative retinopathy,D,left
 6027,4265,65,Male,4265_left.jpg,mild nonproliferative retinopathy,D,left
 6028,4266,48,Male,4266_left.jpg,mild nonproliferative retinopathy,D,left
@@ -12117,7 +12082,6 @@
 6077,4316,36,Male,4316_left.jpg,normal fundus,N,left
 6078,4317,64,Male,4317_left.jpg,moderate non proliferative retinopathy,D,left
 6079,4318,55,Male,4318_left.jpg,moderate non proliferative retinopathy,D,left
-6080,4319,69,Male,4319_left.jpg,moderate non proliferative retinopathy,D,left
 6081,4320,56,Male,4320_left.jpg,moderate non proliferative retinopathy,D,left
 6082,4321,53,Male,4321_left.jpg,moderate non proliferative retinopathy,D,left
 6083,4322,45,Male,4322_left.jpg,moderate non proliferative retinopathy,D,left
@@ -12182,7 +12146,6 @@
 6143,4391,47,Male,4391_left.jpg,moderate non proliferative retinopathy,D,left
 6144,4392,17,Male,4392_left.jpg,normal fundus,N,left
 6145,4393,50,Male,4393_left.jpg,severe nonproliferative retinopathy,D,left
-6146,4394,56,Male,4394_left.jpg,mild nonproliferative retinopathy,D,left
 6147,4395,60,Female,4395_left.jpg,mild nonproliferative retinopathy,D,left
 6148,4396,47,Male,4396_left.jpg,mild nonproliferative retinopathy,D,left
 6149,4397,46,Male,4397_left.jpg,mild nonproliferative retinopathy,D,left
@@ -12212,7 +12175,6 @@
 6173,4424,41,Male,4424_left.jpg,moderate non proliferative retinopathy,D,left
 6174,4425,33,Female,4425_left.jpg,moderate non proliferative retinopathy,D,left
 6175,4426,58,Female,4426_left.jpg,moderate non proliferative retinopathy,D,left
-6176,4427,43,Male,4427_left.jpg,mild nonproliferative retinopathy,D,left
 6177,4428,57,Female,4428_left.jpg,mild nonproliferative retinopathy,D,left
 6178,4429,31,Male,4429_left.jpg,moderate non proliferative retinopathy,D,left
 6179,4430,75,Female,4430_left.jpg,mild nonproliferative retinopathy,D,left
@@ -12356,7 +12318,6 @@
 6318,4596,30,Female,4596_left.jpg,moderate non proliferative retinopathy,D,left
 6319,4597,54,Female,4597_left.jpg,moderate non proliferative retinopathy,D,left
 6320,4599,39,Female,4599_left.jpg,moderate non proliferative retinopathy,D,left
-6321,4601,36,Male,4601_left.jpg,moderate non proliferative retinopathy,D,left
 6322,4602,59,Male,4602_left.jpg,moderate non proliferative retinopathy,D,left
 6323,4603,47,Female,4603_left.jpg,severe nonproliferative retinopathy,D,left
 6324,4604,72,Female,4604_left.jpg,mild nonproliferative retinopathy,D,left
