@@ -2,7 +2,6 @@ from PIL import Image
 from tensorflow.keras import models
 import numpy as np
 from fastapi import FastAPI, File
-import os
 from io import BytesIO
 
 app = FastAPI()

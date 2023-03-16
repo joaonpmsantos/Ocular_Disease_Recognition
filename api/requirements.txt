@@ -1,5 +1,6 @@
-PIL
+Pillow
 tensorflow
 numpy
 fastapi
-io
+uvicorn
+python-multipart
